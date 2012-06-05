@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pixmaps/A.png</file>
+        <file>pixmaps/B.png</file>
+        <file>pixmaps/coner_1f.png</file>
+        <file>pixmaps/coner_2f.png</file>
+        <file>pixmaps/coner_3f.png</file>
+        <file>pixmaps/coner_4f.png</file>
+        <file>pixmaps/empty.png</file>
+        <file>pixmaps/line_h.png</file>
+        <file>pixmaps/line_v.png</file>
+        <file>pixmaps/point_b.png</file>
+        <file>pixmaps/point_l.png</file>
+        <file>pixmaps/point_r.png</file>
+        <file>pixmaps/point_t.png</file>
+        <file>pixmaps/no_path.png</file>
+        <file>pixmaps/path.png</file>
+    </qresource>
+</RCC>
